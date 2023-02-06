@@ -5,5 +5,6 @@ Organiza tareas mediante la consola. Para ejecutarlo pueden abrir un terminal e 
 git clone https://github.com/gcastrogomez/organizador-tareas-consola
 cd organizador-tareas-consola
 npm install
+node app
 ```
 
